@@ -19,5 +19,6 @@ public class HelloWorld {
       System.out.println("fsdfsdf");
         System.out.println("Sergey");
         System.out.println("Hi summer!!");
+        System.out.println("My name is Anna");
     }
 }
