@@ -11,6 +11,9 @@ public class HelloWorld {
         System.out.println("HelloVadym lalala");
         System.out.println("privet valet");
 
-        System.out.println("new ankoma88 commitment");
+        //Nikolas
+        System.out.println("Goodbye World!!!");
+
+        System.out.println("ankoma88 commitment");
     }
 }
