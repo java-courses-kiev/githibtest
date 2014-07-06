@@ -5,8 +5,18 @@ public class HelloWorld {
 
         for ( int i = 0; i < 10; i++ ) {
             System.out.println("Iago!!");
+            System.out.println("HelloVadym");
         }
+        
+        System.out.println("HelloVadym lalala");
+        System.out.println("privet valet");
 
+        //Nikolas
+        System.out.println("Goodbye World!!!");
+
+        System.out.println("ankoma88 commitment");
         System.out.println("new ankoma88 commitment");
+      System.out.println("fsdfsdf");
+        System.out.println("Sergey");
     }
 }
